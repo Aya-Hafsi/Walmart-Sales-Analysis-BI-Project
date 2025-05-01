@@ -44,7 +44,7 @@ A comprehensive BI project analyzing Walmart sales data using:
 - **Customer Demographic Breakdown**
 
 ## 📜 Project Report  
-Download: [Full Technical Report](docs/Walmart BI project.pdf)
+Download: [Full Technical Report](docs/Walmart_BI_project.pdf)
 
 ## 🚀 How to Use This Repository
 1. Clone the repo
